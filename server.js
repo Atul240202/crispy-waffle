@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 
 const app = express();
 const corsOptions = {
-  origin: = '*',
+  origin: '*',
   credentials: true,
 };
 
